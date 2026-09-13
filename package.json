@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/blended02",
+    "build": "vite build --base=/blended02/",
     "preview": "vite preview"
   },
   "devDependencies": {
