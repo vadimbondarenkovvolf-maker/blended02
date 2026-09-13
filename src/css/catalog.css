@@ -4,6 +4,7 @@
   line-height: 1;
   letter-spacing: -0.02em;
   text-align: center;
+  color: #fbfbfb;
 }
 
 .catalog-card {
@@ -49,4 +50,12 @@
 .catalog-btn:focus {
   color: #1b414b;
   background-color: #fbfbfb;
+}
+
+.catalog-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 25px;
 }
